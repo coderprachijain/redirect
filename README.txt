@@ -1,5 +1,6 @@
 # Necesories domain redirect
 
+
 This small Vercel project permanently redirects requests to https://necesories.com,
 preserving the path and query string (for example, /about?ref=tech).
 
